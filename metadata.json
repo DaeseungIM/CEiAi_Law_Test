@@ -1,0 +1,6 @@
+{
+  "name": "CeiAi Law Information System",
+  "description": "Economic law management system providing revision history and article lookup for Customs, Foreign Trade, and Foreign Exchange laws using the National Law Information Center API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
